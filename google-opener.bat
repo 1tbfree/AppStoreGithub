@@ -1,0 +1,3 @@
+msg * Opening Google...
+start "https://google.com"
+msg * Done!
